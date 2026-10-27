@@ -1,0 +1,2 @@
+run_name,ticker,symbol,rounding_multiple,index_available,futures_available,lowest_strike,highest_strike,timeframes
+NSE_NIFTYNXT50_INDEX_20261027_142003,NIFTYNXT50-INDEX,NIFTYNXT50,100,True,True,61700,78800,5S|1|5|60|D
